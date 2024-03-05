@@ -1,0 +1,9 @@
+#如果你也玩lol的话，我希望你也喜欢可爱的魔法猫咪小悠米这个英雄
+answer=input（"你喜欢魔法猫咪悠米吗？（yes or no）"）
+if answer="yes"：
+    print（"有你有我，一鼓作气！"）
+elif answer="no"：
+    print（"我要咬死你！"）
+else：
+    print（"最神奇的猫咪也很疑惑"）
+#有你有我，靠最神奇的猫咪拯救世界吧，哎，别让我掉下来
